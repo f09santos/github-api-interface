@@ -1,0 +1,19 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:benits/github-api-interface.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[remote "github.com/f09santos/github-api-interface"]
+	url = github.com/f09santos/github-api-interface
+	fetch = +refs/heads/*:refs/remotes/github.com/f09santos/github-api-interface/*
+[remote "git@github.com-f09santos/github-api-interface.git"]
+	url = git@github.com:f09santos/github-api-interface.git
+	fetch = +refs/heads/*:refs/remotes/git@github.com-f09santos/github-api-interface.git/*
