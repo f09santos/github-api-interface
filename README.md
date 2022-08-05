@@ -1,7 +1,7 @@
 
 # Projeto 
 
- Repositório  criado para mostrar o desenvolvimento de uma aplicação frontend com componentes reutilizáveis, com a API pública do github.
+ Repositório  criado para mostrar o desenvolvimento de uma aplicação front-end com componentes reutilizáveis, com a API pública do github.
 
  
 # Bibliotecas utilizadas
